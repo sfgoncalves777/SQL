@@ -10,7 +10,7 @@ Além disso há o relacionamento das duas entidades na entidade registered, send
 ### Pré-requisitos
 Antes de executar o projeto, certifique-se de ter o seguinte instalado em sua máquina:
 - Node.js: [Download e Instalação do Node.js](https://nodejs.org/)
-- Postgress: [Download e Instalação do Node.js](https://www.postgresql.org/)
+- PostgreSQL: [Download e Instalação do Node.js](https://www.postgresql.org/)
 
 ### Instalação
 - Clone o repositório:
